@@ -9,6 +9,7 @@ th{
 
 table{
     margin-left: 350px;
+    border-collapse: collapse;
 }
 .bf{
     height: 20px;
